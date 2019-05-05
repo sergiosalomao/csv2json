@@ -1,0 +1,3 @@
+id;nome;telefone;endereco;json
+1;sergio;99999999;rua alemanha 350;{'id':'1','nome':'sergio','telefone':'99999999','endereco':'rua alemanha 350'}
+2;cynara;88888888;ruamarcondes;{'id':'2','nome':'cynara','telefone':'88888888','endereco':'ruamarcondes'}
