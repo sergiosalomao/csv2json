@@ -3,7 +3,7 @@
 #Script para leitura de arquivo CSV transformar em json
 $handle = fopen("arquivo.csv", "r");
 $row = 0;
-while ($line = fgetcsv($handle, 1000, ";")) { //dependendo do arquivo usar "," no delimitergit
+while ($line = fgetcsv($handle, 1000, ";")) { //dependendo do arquivo usar "," no delimiter
     if ($row++ == 0) {
             continue;
         }
