@@ -1,6 +1,6 @@
 <?php
 #Script para leitura de arquivo CSV transformar em json
-$handle = fopen("apreensoes_para_regularizar.csv", "r");
+$handle = fopen("arquivo.csv", "r");
 $row = 0;
 
 #Definir inicio e fim da leitura
